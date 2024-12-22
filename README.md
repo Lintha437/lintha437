@@ -51,8 +51,8 @@ I’m also an enthusiast for **Minecraft**, **KartRider Drift**, and **ShootersP
 # 
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lintha437&layout=donut&theme=radical&title_color=8E2DE2&text_color=fff" height="240px">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lintha437&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" height="240px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lintha437&layout=donut&theme=radical&title_color=8E2DE2&text_color=fff" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lintha437&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" height="200px">
 </div>  
 
   
