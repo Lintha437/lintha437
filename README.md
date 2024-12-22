@@ -1,5 +1,5 @@
-<h1 align="center">🌟 FAIRYDEWSTZ 🌟</h1>
-
+<div align="center"><img height="64px" alt="FAIRYDEWSTZ" src="https://img.shields.io/badge/-DEWSTZ-grey?style=for-the-badge&logo=refinedgithub&logoColor=white&label=FAIRY&labelColor=8E2DE2"></div>  
+<div align="center">🌟</div>
 I’m an undergraduate student with a passion for game development, currently working as a **Minecraft Mods Developer** and **Game Design Intern**. I enjoy chatting, coding on various game projects, and playing snooker.  
 
 I’m also an enthusiast for **Minecraft**, **KartRider Drift**, and **ShootersPool**. My ultimate career goal is to become a **Game Designer**, and I am currently sharpening my skills in **Unreal Engine 5** and **Blender**.  
@@ -16,8 +16,10 @@ I’m also an enthusiast for **Minecraft**, **KartRider Drift**, and **ShootersP
     <img alt="Type Script" src="https://img.shields.io/badge/-Type Script-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2">
     <img alt="Java Script" src="https://img.shields.io/badge/-Java Script-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2">
     <img alt="Java" src="https://img.shields.io/badge/-Java-grey?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=8E2DE2">
+    <img alt="Python" src="https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2">
     <img alt="HTML" src="https://img.shields.io/badge/-HTML-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2">
     <img alt="CSS" src="https://img.shields.io/badge/-CSS-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2">
+    <img alt="Scala" src="https://img.shields.io/badge/-Scala-grey?style=for-the-badge&logo=scala&logoColor=white&labelColor=8E2DE2">
     <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-grey?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=8E2DE2">
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2">
   </div>
@@ -67,7 +69,7 @@ I’m also an enthusiast for **Minecraft**, **KartRider Drift**, and **ShootersP
 
 
 <div align="center">
-  <h4>Thanks for visiting :heart:</h4>
+  <h4>Thanks for Visiting :heart:</h4>
   <img src="https://profile-counter.glitch.me/Lintha437/count.svg" height="24">
 </div>
 
