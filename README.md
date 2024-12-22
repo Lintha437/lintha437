@@ -39,28 +39,23 @@ I’m also an enthusiast for **Minecraft**, **KartRider Drift**, and **ShootersP
 
 
 ## **SOCIAL**  
-
-<div style="background: #1E1E2E; border-radius: 8px; padding: 20px; margin: 20px 0; color: #fff;">
-  <ul style="list-style: none; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; padding: 0;">
-    <li>📧 **Personal Email:** <a href="mailto:lintha437@gmail.com" style="color: #8E2DE2;">lintha437@gmail.com</a></li>
-    <li>💼 **Work Email:** <a href="mailto:lintha437@metchastudios.onmicrosoft.com" style="color: #8E2DE2;">lintha437@metchastudios.onmicrosoft.com</a></li>
-    <li>🎥 **YouTube:** <a href="https://www.youtube.com/@lintha437" style="color: #8E2DE2;">@lintha437</a></li>
-    <li>💬 **Discord:** lintha437</li>
-    <li>🦉 **X:** <a href="https://x.com/Lintha437" style="color: #8E2DE2;">@Lintha437</a></li>
-    <li>📱 **Telegram:** <a href="https://t.me/lintha437" style="color: #8E2DE2;">@lintha437</a></li>
-    <li>🎮 **Xbox:** Liuny233</li>
-    <li>🧧 **QQ:** 1379251008</li>
-    <li>👥 **QQ Group:** 344086234</li>
-  </ul>
-</div>  
-
+![Personal Email - lintha437@gmail.com](https://img.shields.io/badge/-lintha437%40gmail.com-grey?style=for-the-badge&logo=gmail&logoColor=white&logoSize=100&label=Personal%20Email&labelColor=8E2DE2&link=mailto%3Alintha437%40gmail.com)  
+![Work Email - lintha437@metchastudios.onmicrosoft.com](https://img.shields.io/badge/-lintha437%40metchastudios.onmicrosoft.com-grey?style=for-the-badge&logo=gmail&logoColor=white&logoSize=100&label=Work%20Email&labelColor=8E2DE2&link=mailto%3Alintha437%40metchastudios.onmicrosoft.com)  
+![YouTube - @lintha437](https://img.shields.io/badge/-%40lintha437-grey?style=for-the-badge&logo=youtube&logoColor=white&logoSize=100&label=YouTube&labelColor=8E2DE2&link=https%3A%2F%2Fwww.youtube.com%2F%40lintha437)  
+![Discord - lintha437](https://img.shields.io/badge/-lintha437-grey?style=for-the-badge&logo=discord&logoColor=white&logoSize=100&label=Discord&labelColor=8E2DE2)  
+![X - @Lintha437](https://img.shields.io/badge/-%40Lintha437-grey?style=for-the-badge&logo=x&logoColor=white&label=X&labelColor=8E2DE2&link=https%3A%2F%2Fx.com%2FLintha437)  
+![Telegram - @lintha437](https://img.shields.io/badge/-%40lintha437-grey?style=for-the-badge&logo=telegram&logoColor=white&label=Telegram&labelColor=8E2DE2&link=https%3A%2F%2Ft.me%2Flintha437)  
+![Xbox - Liuny233](https://img.shields.io/badge/-Liuny233-grey?style=for-the-badge&logo=youtubegaming&logoColor=white&label=Xbox&labelColor=8E2DE2)  
+![QQ Group - 344086234](https://img.shields.io/badge/-344086234-grey?style=for-the-badge&logo=tencentqq&logoColor=white&label=QQ%20Group&labelColor=8E2DE2&link=https%3A%2F%2Fqm.qq.com%2Fq%2FEXBovFw7Ha)  
+  
 # 
-
+  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lintha437&layout=donut&theme=radical&title_color=8E2DE2&text_color=fff" height="240px">
   <img src="https://github-readme-stats.vercel.app/api?username=Lintha437&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" height="240px">
 </div>  
 
+  
 ---
 
 <!--
