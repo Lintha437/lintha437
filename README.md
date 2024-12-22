@@ -43,14 +43,14 @@ I’m also an enthusiast for **Minecraft**, **KartRider Drift**, and **ShootersP
 
 ## **SOCIAL**  
 
-<a href="mailto:lintha437@gmail.com"><img alt="Personal Email - lintha437@gmail.com" src="https://img.shields.io/badge/-lintha437%40gmail.com-grey?style=for-the-badge&logo=gmail&logoColor=white&logoSize=100&label=Personal%20Email&labelColor=8E2DE2&link=mailto%3Alintha437%40gmail.com"></a>  
-<a href="mailto:lintha437@metchastudios.onmicrosoft.com"><img alt="Work Email - lintha437@metchastudios.onmicrosoft.com" src="https://img.shields.io/badge/-lintha437%40metchastudios.onmicrosoft.com-grey?style=for-the-badge&logo=gmail&logoColor=white&logoSize=100&label=Work%20Email&labelColor=8E2DE2&link=mailto%3Alintha437%40metchastudios.onmicrosoft.com"></a>  
-<a href="https://www.youtube.com/@lintha437"><img alt="YouTube - @lintha437" src="https://img.shields.io/badge/-%40lintha437-grey?style=for-the-badge&logo=youtube&logoColor=white&logoSize=100&label=YouTube&labelColor=8E2DE2&link=https%3A%2F%2Fwww.youtube.com%2F%40lintha437"></a>  
-<a href="#"><img alt="Discord - lintha437" src="https://img.shields.io/badge/-lintha437-grey?style=for-the-badge&logo=discord&logoColor=white&logoSize=100&label=Discord&labelColor=8E2DE2"></a>  
-<a href="https://x.com/Lintha437"><img alt="X - @Lintha437" src="https://img.shields.io/badge/-%40Lintha437-grey?style=for-the-badge&logo=x&logoColor=white&label=X&labelColor=8E2DE2&link=https%3A%2F%2Fx.com%2FLintha437"></a>  
-<a href="https://t.me/lintha437"><img alt="Telegram - @lintha437" src="https://img.shields.io/badge/-%40lintha437-grey?style=for-the-badge&logo=telegram&logoColor=white&label=Telegram&labelColor=8E2DE2&link=https%3A%2F%2Ft.me%2Flintha437"></a>  
-<a href="#"><img alt="Xbox - Liuny233" src="https://img.shields.io/badge/-Liuny233-grey?style=for-the-badge&logo=youtubegaming&logoColor=white&label=Xbox&labelColor=8E2DE2"></a>  
-<a href="https://qm.qq.com/q/wVfdIFue8U"><img alt="QQ Group - 344086234" src="https://img.shields.io/badge/-344086234-grey?style=for-the-badge&logo=tencentqq&logoColor=white&label=QQ%20Group&labelColor=8E2DE2&link=https%3A%2F%2Fqm.qq.com%2Fq%2FEXBovFw7Ha"></a>  
+<a href="mailto:lintha437@gmail.com" target="_blank"><img alt="Personal Email - lintha437@gmail.com" src="https://img.shields.io/badge/-lintha437%40gmail.com-grey?style=for-the-badge&logo=gmail&logoColor=white&logoSize=100&label=Personal%20Email&labelColor=8E2DE2&link=mailto%3Alintha437%40gmail.com"></a>  
+<a href="mailto:lintha437@metchastudios.onmicrosoft.com" target="_blank"><img alt="Work Email - lintha437@metchastudios.onmicrosoft.com" src="https://img.shields.io/badge/-lintha437%40metchastudios.onmicrosoft.com-grey?style=for-the-badge&logo=gmail&logoColor=white&logoSize=100&label=Work%20Email&labelColor=8E2DE2&link=mailto%3Alintha437%40metchastudios.onmicrosoft.com"></a>  
+<a href="https://www.youtube.com/@lintha437" target="_blank"><img alt="YouTube - @lintha437" src="https://img.shields.io/badge/-%40lintha437-grey?style=for-the-badge&logo=youtube&logoColor=white&logoSize=100&label=YouTube&labelColor=8E2DE2&link=https%3A%2F%2Fwww.youtube.com%2F%40lintha437"></a>  
+<a href="#" target="_blank"><img alt="Discord - lintha437" src="https://img.shields.io/badge/-lintha437-grey?style=for-the-badge&logo=discord&logoColor=white&logoSize=100&label=Discord&labelColor=8E2DE2"></a>  
+<a href="https://x.com/Lintha437" target="_blank"><img alt="X - @Lintha437" src="https://img.shields.io/badge/-%40Lintha437-grey?style=for-the-badge&logo=x&logoColor=white&label=X&labelColor=8E2DE2&link=https%3A%2F%2Fx.com%2FLintha437"></a>  
+<a href="https://t.me/lintha437" target="_blank"><img alt="Telegram - @lintha437" src="https://img.shields.io/badge/-%40lintha437-grey?style=for-the-badge&logo=telegram&logoColor=white&label=Telegram&labelColor=8E2DE2&link=https%3A%2F%2Ft.me%2Flintha437"></a>  
+<a href="#" target="_blank"><img alt="Xbox - Liuny233" src="https://img.shields.io/badge/-Liuny233-grey?style=for-the-badge&logo=youtubegaming&logoColor=white&label=Xbox&labelColor=8E2DE2"></a>  
+<a href="https://qm.qq.com/q/wVfdIFue8U" target="_blank"><img alt="QQ Group - 344086234" src="https://img.shields.io/badge/-344086234-grey?style=for-the-badge&logo=tencentqq&logoColor=white&label=QQ%20Group&labelColor=8E2DE2&link=https%3A%2F%2Fqm.qq.com%2Fq%2FEXBovFw7Ha"></a>  
   
 # 
   
