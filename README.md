@@ -54,8 +54,6 @@ I’m also an enthusiast for **Minecraft**, **KartRider Drift**, and **ShootersP
 <img src="https://komarev.com/ghpvc/?username=Lintha437&color=8E2DE2&style=for-the-badge" height="64">
 </div>
 
-#
-
 ![Banner Image](https://imgur.com/rilHVxA.png)
 
 
