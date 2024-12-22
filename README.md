@@ -1,5 +1,6 @@
 <div align="center"><img height="64px" alt="FAIRYDEWSTZ" src="https://img.shields.io/badge/-DEWSTZ-grey?style=for-the-badge&logo=refinedgithub&logoColor=white&label=FAIRY&labelColor=8E2DE2"></div>  
 <div align="center">🌟</div>
+
 I’m an undergraduate student with a passion for game development, currently working as a **Minecraft Mods Developer** and **Game Design Intern**. I enjoy chatting, coding on various game projects, and playing snooker.  
 
 I’m also an enthusiast for **Minecraft**, **KartRider Drift**, and **ShootersPool**. My ultimate career goal is to become a **Game Designer**, and I am currently sharpening my skills in **Unreal Engine 5** and **Blender**.  
