@@ -14,13 +14,7 @@ I’m also an enthusiast for **Minecraft**, **KartRider Drift**, and **ShootersP
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; text-align: center; gap: 20px; margin: 20px 0;">
   <div align="center">
     <h3>Natural Languages</h3>
-    <img alt="Simplified Chinese" src="https://img.shields.io/badge/-Simplified Chinese-grey?style=for-the-badge&label=CN&labelColor=8E2DE2">
-    <img alt="&gt;" src="https://img.shields.io/badge/-red?style=for-the-badge&logo=accenture&logoColor=white&labelColor=8E2DE2">
-    <img alt="English" src="https://img.shields.io/badge/-English-grey?style=for-the-badge&label=EN&labelColor=8E2DE2">
-    <img alt="&gt;" src="https://img.shields.io/badge/-red?style=for-the-badge&logo=accenture&logoColor=white&labelColor=8E2DE2">
-    <img alt="Traditional Chinese" src="https://img.shields.io/badge/-Traditional Chinese-grey?style=for-the-badge&label=CN&labelColor=8E2DE2">
-    <img alt="&gt;" src="https://img.shields.io/badge/-red?style=for-the-badge&logo=accenture&logoColor=white&labelColor=8E2DE2">
-    <img alt="French" src="https://img.shields.io/badge/-French-grey?style=for-the-badge&label=FR&labelColor=8E2DE2">
+    <img alt="S-CN &gt; EN &gt; T-CN &gt; FR" src="https://img.shields.io/badge/-Simplified Chinese &gt; English &gt; Traditional Chinese &gt; French-grey?style=for-the-badge">
   </div>
   </br>
   <div align="center">
