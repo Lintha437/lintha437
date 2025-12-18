@@ -20,6 +20,7 @@ I’m also an enthusiast for **Minecraft**, **KartRider Drift**, and **ShootersP
   <div align="center">
     <h3>Languages</h3>
     <img alt="C++" src="https://img.shields.io/badge/-C++-grey?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=8E2DE2">
+    <img alt="C#" src="https://img.shields.io/badge/-C#-grey?style=for-the-badge&logo=csharp&logoColor=white&labelColor=8E2DE2">
     <img alt="C" src="https://img.shields.io/badge/-C-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2">
     <img alt="Type Script" src="https://img.shields.io/badge/-Type Script-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2">
     <img alt="Java Script" src="https://img.shields.io/badge/-Java Script-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2">
