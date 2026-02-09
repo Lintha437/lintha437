@@ -95,7 +95,11 @@ I’m also an enthusiast for **Minecraft**, **KartRider Drift**, and **ShootersP
 <div align="center">
   <h4>Thanks for Visiting</h4>
   <h3>:heart:</h3>
-  <img src="https://profile-counter.glitch.me/Lintha437/count.svg" height="24">
+  <!-- <img src="https://profile-counter.glitch.me/Lintha437/count.svg" height="24">-->
+  <p>
+    <a href="mailto:lintha437@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <img src="https://komarev.com/ghpvc/?username=lintha437&style=for-the-badge&color=8E2DE2" alt="Profile Views"/>
+  </p>
 </div>
 
 <div align="center">
