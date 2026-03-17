@@ -1,5 +1,12 @@
-<div align="center"><img height="64px" alt="FAIRYDEWSTZ" src="https://img.shields.io/badge/-DEWSTZ-grey?style=for-the-badge&logo=refinedgithub&logoColor=white&label=FAIRY&labelColor=8E2DE2"></div>  
-</br>
+<div align="center">
+<!-- <img height="64px" alt="FAIRYDEWSTZ" src="https://img.shields.io/badge/-DEWSTZ-grey?style=for-the-badge&logo=refinedgithub&logoColor=white&label=FAIRY&labelColor=8E2DE2"> -->
+<!-- Typing SVG -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1024&size=32&duration=2000&pause=1000&color=8E2DE2&center=true&vCenter=true&random=false&width=1024&lines=Hi+%F0%9F%91%8B+I+am+Fairydewstz;Game+System+Designer+%7C+Coder;Building+Game+Mechanics+%26+System+Architecture)](https://git.io/typing-svg)
+
+</div>
+
+</br> 
 <div align="center">🌟</div>
 
 </br>
@@ -20,34 +27,34 @@ I’m also an enthusiast for **Minecraft**, **KartRider Drift**, and **ShootersP
   </br>
   <div align="left">
     <h3>Languages</h3>
-    <img alt="C++" src="https://img.shields.io/badge/-C++-grey?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=8E2DE2">
-    <img alt="C#" src="https://img.shields.io/badge/-C Sharp-grey?style=for-the-badge&logo=csharp&logoColor=white&labelColor=8E2DE2">
-    <img alt="C" src="https://img.shields.io/badge/-C-grey?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2">
-    <img alt="Type Script" src="https://img.shields.io/badge/-Type Script-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2">
-    <img alt="Java Script" src="https://img.shields.io/badge/-Java Script-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2">
-    <img alt="Java" src="https://img.shields.io/badge/-Java-grey?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=8E2DE2">
-    <img alt="Python" src="https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2">
-    <img alt="HTML" src="https://img.shields.io/badge/-HTML-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2">
-    <img alt="CSS" src="https://img.shields.io/badge/-CSS-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2">
-    <img alt="Scala" src="https://img.shields.io/badge/-Scala-grey?style=for-the-badge&logo=scala&logoColor=white&labelColor=8E2DE2">
-    <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-grey?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=8E2DE2">
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2">
+    <img alt="C++" src="https://img.shields.io/badge/-C++-8E2DE2?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=8E2DE2">
+    <img alt="C#" src="https://img.shields.io/badge/-C Sharp-8E2DE2?style=for-the-badge&logo=csharp&logoColor=white&labelColor=8E2DE2">
+    <img alt="C" src="https://img.shields.io/badge/-C-8E2DE2?style=for-the-badge&logo=c&logoColor=white&labelColor=8E2DE2">
+    <img alt="Type Script" src="https://img.shields.io/badge/-Type Script-8E2DE2?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2">
+    <img alt="Java Script" src="https://img.shields.io/badge/-Java Script-8E2DE2?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2">
+    <img alt="Java" src="https://img.shields.io/badge/-Java-8E2DE2?style=for-the-badge&logo=coffeescript&logoColor=white&labelColor=8E2DE2">
+    <img alt="Python" src="https://img.shields.io/badge/-Python-8E2DE2?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2">
+    <img alt="HTML" src="https://img.shields.io/badge/-HTML-8E2DE2?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2">
+    <img alt="CSS" src="https://img.shields.io/badge/-CSS-8E2DE2?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2">
+    <img alt="Scala" src="https://img.shields.io/badge/-Scala-8E2DE2?style=for-the-badge&logo=scala&logoColor=white&labelColor=8E2DE2">
+    <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-8E2DE2?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=8E2DE2">
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-8E2DE2?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2">
   </div>
   </br>
   <div align="right">
     <h3>Frameworks & Tools</h3>
-    <img alt="Electron" src="https://img.shields.io/badge/-Electron-grey?style=for-the-badge&logo=electron&logoColor=white&labelColor=8E2DE2">
-    <img alt="React" src="https://img.shields.io/badge/-React-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2">
-    <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-grey?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=8E2DE2">
-    <img alt="Unreal Engine 5" src="https://img.shields.io/badge/-Unreal Engine 5-grey?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=8E2DE2">
+    <img alt="Electron" src="https://img.shields.io/badge/-Electron-8E2DE2?style=for-the-badge&logo=electron&logoColor=white&labelColor=8E2DE2">
+    <img alt="React" src="https://img.shields.io/badge/-React-8E2DE2?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2">
+    <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-8E2DE2?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=8E2DE2">
+    <img alt="Unreal Engine 5" src="https://img.shields.io/badge/-Unreal Engine 5-8E2DE2?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=8E2DE2">
   </div>
   </br>
   <div align="left">
     <h3>Design & Editing</h3>
-    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe Photoshop-grey?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=8E2DE2">
-    <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Adobe Premiere Pro-grey?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=8E2DE2">
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe Illustrator-grey?style=for-the-badge&logo=adobeillustrator&logoColor=white&labelColor=8E2DE2">
-    <img alt="Adobe Audition" src="https://img.shields.io/badge/-Adobe Audition-grey?style=for-the-badge&logo=adobeaudition&logoColor=white&labelColor=8E2DE2">
+    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe Photoshop-8E2DE2?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=8E2DE2">
+    <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Adobe Premiere Pro-8E2DE2?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=8E2DE2">
+    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe Illustrator-8E2DE2?style=for-the-badge&logo=adobeillustrator&logoColor=white&labelColor=8E2DE2">
+    <img alt="Adobe Audition" src="https://img.shields.io/badge/-Adobe Audition-8E2DE2?style=for-the-badge&logo=adobeaudition&logoColor=white&labelColor=8E2DE2">
   </div>
 </div>  
 
