@@ -37,6 +37,7 @@ I’m also an enthusiast for **Minecraft**, **KartRider Drift**, and **ShootersP
   <div align="right">
     <h3>Frameworks & Tools</h3>
     <img alt="Electron" src="https://img.shields.io/badge/-Electron-grey?style=for-the-badge&logo=electron&logoColor=white&labelColor=8E2DE2">
+    <img alt="React" src="https://img.shields.io/badge/-React-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2">
     <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-grey?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=8E2DE2">
     <img alt="Unreal Engine 5" src="https://img.shields.io/badge/-Unreal Engine 5-grey?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=8E2DE2">
   </div>
