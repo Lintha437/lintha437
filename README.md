@@ -2,7 +2,7 @@
 <!-- <img height="64px" alt="FAIRYDEWSTZ" src="https://img.shields.io/badge/-DEWSTZ-grey?style=for-the-badge&logo=refinedgithub&logoColor=white&label=FAIRY&labelColor=8E2DE2"> -->
 <!-- Typing SVG -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1024&size=32&duration=2000&pause=2000&color=8E2DE2&center=true&vCenter=true&random=false&width=1024&lines=Hi+%F0%9F%91%8B+I+am+Fairydewstz;Game+System+Designer+%7C+Coder;Building+Game+Mechanics+%26+System+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1024&size=32&duration=3200&pause=2400&color=8E2DE2&center=true&vCenter=true&random=false&width=1024&lines=Hi+%F0%9F%91%8B+I+am+Fairydewstz;Game+System+Designer+%7C+Coder;Building+Game+Mechanics+%26+System+Architecture)](https://git.io/typing-svg)
 
 </div>
 
