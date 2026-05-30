@@ -17,7 +17,7 @@ I’m also an enthusiast for **Minecraft**, **KartRider Drift**, and **ShootersP
 
 </br>
 
-## **SKILLS & TOOLS**  
+## **🛠️ TECH STACK & SKILLS**  
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; text-align: center; gap: 20px; margin: 20px 0;">
   <div align="right">
@@ -39,6 +39,7 @@ I’m also an enthusiast for **Minecraft**, **KartRider Drift**, and **ShootersP
     <img alt="Scala" src="https://img.shields.io/badge/-Scala-8E2DE2?style=for-the-badge&logo=scala&logoColor=white&labelColor=8E2DE2">
     <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-8E2DE2?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=8E2DE2">
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-8E2DE2?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2">
+    <img alt="SQL Server" src="https://img.shields.io/badge/-SQL Server-8E2DE2?style=for-the-badge&logo=sqlserver&logoColor=white&labelColor=8E2DE2">
   </div>
   </br>
   <div align="right">
@@ -46,7 +47,10 @@ I’m also an enthusiast for **Minecraft**, **KartRider Drift**, and **ShootersP
     <img alt="Electron" src="https://img.shields.io/badge/-Electron-8E2DE2?style=for-the-badge&logo=electron&logoColor=white&labelColor=8E2DE2">
     <img alt="React" src="https://img.shields.io/badge/-React-8E2DE2?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2">
     <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-8E2DE2?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=8E2DE2">
-    <img alt="Unreal Engine 5" src="https://img.shields.io/badge/-Unreal Engine 5-8E2DE2?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=8E2DE2">
+    <img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal Engine 5-8E2DE2?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=8E2DE2">
+    <img alt="CMake" src="https://img.shields.io/badge/-CMake-8E2DE2?style=for-the-badge&logo=cmake&logoColor=white&labelColor=8E2DE2">
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-8E2DE2?style=for-the-badge&logo=docker&logoColor=white&labelColor=8E2DE2">
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub Actions-8E2DE2?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=8E2DE2">
   </div>
   </br>
   <div align="left">
@@ -55,12 +59,13 @@ I’m also an enthusiast for **Minecraft**, **KartRider Drift**, and **ShootersP
     <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Adobe Premiere Pro-8E2DE2?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=8E2DE2">
     <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe Illustrator-8E2DE2?style=for-the-badge&logo=adobeillustrator&logoColor=white&labelColor=8E2DE2">
     <img alt="Adobe Audition" src="https://img.shields.io/badge/-Adobe Audition-8E2DE2?style=for-the-badge&logo=adobeaudition&logoColor=white&labelColor=8E2DE2">
+    <img alt="Blender" src="https://img.shields.io/badge/-Blender-8E2DE2?style=for-the-badge&logo=blender&logoColor=white&labelColor=8E2DE2">
   </div>
 </div>  
 
 </br>
 
-## **SOCIAL**  
+## **😍 SOCIAL**  
 
 <div align="right">
   <a href="mailto:lintha437@gmail.com" target="_blank"><img alt="Personal Email - lintha437@gmail.com" src="https://img.shields.io/badge/-lintha437%40gmail.com-grey?style=for-the-badge&logo=gmail&logoColor=white&logoSize=100&label=Personal%20Email&labelColor=8E2DE2&link=mailto%3Alintha437%40gmail.com"></a>  
